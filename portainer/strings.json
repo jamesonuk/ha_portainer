@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Portainer Details",
+        "description": "Enter Portainer connection details.",
+        "data": {
+          "username": "Username",
+          "password": "Password",
+          "host": "Host",
+          "port": "Port",
+          "ca_certificate": "CA cerificate"
+        }
+      }
+    }
+  }
+}
